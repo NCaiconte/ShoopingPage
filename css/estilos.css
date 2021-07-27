@@ -23,12 +23,12 @@ article{
 #menu{
     border-top: 2px solid rgb(177, 65, 108);
     border-bottom: 2px solid rgb(177, 65, 108);
-    margin: 5px;
+    margin: 2px;
 }
 
 #menu li{
 display: inline-block;
-padding: 15px;
+padding: 20px;
 border: 1px solid rgb(126, 80, 97);
 margin: 10px;
 

@@ -1,0 +1,41 @@
+body{
+    background: rgb(250,188,150);
+    background: linear-gradient(360deg, rgba(250,188,150,1) 3%, rgba(255,253,224,0.35898109243697474) 100%);
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    color: rgb(141, 33, 100);
+    font-size: xx-large;
+    text-align: left;
+    
+    margin: 5px;
+}
+
+article{
+    float: right;
+    position: absolute;
+    top:15px;
+    right: 15px;
+}
+
+#menu{
+    border-top: 2px solid rgb(177, 65, 108);
+    border-bottom: 2px solid rgb(177, 65, 108);
+    margin: 5px;
+}
+
+#menu li{
+display: inline-block;
+padding: 15px;
+border: 1px solid rgb(126, 80, 97);
+margin: 10px;
+
+}
+
+section{
+    text-align: center;
+    color:rgb(141, 33, 100);
+    
+}
